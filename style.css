@@ -1290,9 +1290,9 @@ body {
     .logo1 {
       width: 26px;
       height: 13px;
-      object-fit: cover;
+      /* object-fit: cover; */
       position: absolute;
-      z-index: 2;
+      z-index: 4;
     }
     .logo2 {
       width: 32px;
@@ -1470,5 +1470,6 @@ body {
     font-size: 27.64px;
   }
 }
+
 
 
