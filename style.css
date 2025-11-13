@@ -311,8 +311,8 @@ body {
 }
 
 .section2-logo1 {
-  width: 66.54px;
-  height: 35px;
+  width: 66px;
+  height: 34.5px;
   object-fit: cover;
   opacity: 70%;
 }
@@ -1031,6 +1031,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    height: auto;
     
     .logo1 {
       width: 69px;
@@ -1466,3 +1467,4 @@ body {
     font-size: 27.64px;
   }
 }
+
