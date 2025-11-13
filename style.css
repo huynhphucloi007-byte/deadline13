@@ -1289,7 +1289,7 @@ body {
     margin-top: 34px;
     .logo1 {
       width: 26px;
-      height: 13px;
+      height: 12px;
       /* object-fit: cover; */
       position: absolute;
       z-index: 4;
@@ -1470,6 +1470,7 @@ body {
     font-size: 27.64px;
   }
 }
+
 
 
 
