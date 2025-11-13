@@ -1291,12 +1291,15 @@ body {
       width: 26px;
       height: 13px;
       object-fit: cover;
+      position: absolute;
+      z-index: 2;
     }
     .logo2 {
       width: 32px;
       height: 11px;
       object-fit: cover;
       opacity: 60%;
+      margin: 0 0 0 79.3px;
     }
     .logo3 {
       width: 25px;
@@ -1467,4 +1470,5 @@ body {
     font-size: 27.64px;
   }
 }
+
 
