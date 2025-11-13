@@ -1288,7 +1288,7 @@ body {
   .hero-logo2 {
     margin-top: 34px;
     .logo1 {
-      width: 23px;
+      width: 22px;
       height: 12px;
       object-fit: cover;
       position: absolute;
@@ -1470,6 +1470,7 @@ body {
     font-size: 27.64px;
   }
 }
+
 
 
 
